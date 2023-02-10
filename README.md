@@ -1,1 +1,1 @@
-# trial-2
+This project is for trial for JS101 students.
